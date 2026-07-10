@@ -40,6 +40,8 @@ Full-stack travel booking site with destination search and booking.
 
 
 ---
+## 🚀 Collaborations & Projects
+* **[ARIA](https://github.com/Harsho-afk/Blue-Vectors.git)** - A public web app where I collaborated on building the backend infrastructure and features.
 
 Always open to interesting problems, collaborations, and conversations.
 [Drop me a mail](mailto:kirankumarbdoddamani@gmail.com)
